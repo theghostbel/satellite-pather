@@ -4,9 +4,9 @@ Build a path between two points on Earth using interconnection of low orbit sate
 # How to use:
 
 1. install node.js
-2. place main.js and package.json somewhere
-3. install required libs (package.json/dependencies) by running "npm i"
-4. run script
+2. place `satpather.js` and 'package.json` somewhere or just fork this repo
+3. install required libs (package.json/dependencies) by running `npm i`
+4. run script:
   1. you can run it without params `node .\satpather.js`
   2. or add string containing params `node .\satpather.js novalidate-short` or `node .\satpather.js graph-short` 
 5. supported params:
