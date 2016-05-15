@@ -1,0 +1,10 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "build-url": "^1.0.9",
+    "cesium": "^1.21.0",
+    "dijkstrajs": "^1.0.1",
+    "node-fetch": "^1.5.2"
+  }
+}
